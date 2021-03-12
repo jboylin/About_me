@@ -1,2 +1,4 @@
 *mindfulness
-*box breathing
+    - sit comfortably
+    - breathe deep
+    - scan the body
